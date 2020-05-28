@@ -11,7 +11,13 @@ Simple HMM model with add-one Laplace Smoothing is applied
 By using **IBM Watson's Cloud-based NLP services**, build a simple QA model.
 QA model with assistant workspace. By sending a query to system, simple matched answer can be returned.
 
-## Mini Proejct - LDA topic Modeling
+## Exercise 1 - LDA topic Modeling
 * Understand Latent Dirichlet Allocation
 * Build LDA model with BOW and TFIDF
 * Topic classification
+
+## Exercise 2 - Sentimental Analysis
+* Can draw WordCloud with IMDB image
+![](https://github.com/fenneccat/Udacity_Natural_Language_Processing/blob/master/Exercise_Sentimental-Analysis/images/wordcloud.png)
+* Make textdata into vector
+* Sentimental analysis with GradientBoostingClassifier, GaussianNB
