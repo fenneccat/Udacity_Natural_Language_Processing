@@ -19,8 +19,12 @@ QA model with assistant workspace. By sending a query to system, simple matched 
 ## Exercise 2 - Sentimental Analysis
 * Can draw WordCloud with IMDB image
 ![](https://github.com/fenneccat/Udacity_Natural_Language_Processing/blob/master/Exercise_Sentimental-Analysis/images/wordcloud.png)
+1. classic ML classification models
 * Make textdata into vector
 * Sentimental analysis with GradientBoostingClassifier, GaussianNB
+
+2. RNN classification model
+* use LSTM to build sentimental anaylsis model
 
 ## Exercise 3 - Keras
 * Can build NN models using Keras
