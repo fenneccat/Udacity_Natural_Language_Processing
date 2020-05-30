@@ -21,3 +21,7 @@ QA model with assistant workspace. By sending a query to system, simple matched 
 ![](https://github.com/fenneccat/Udacity_Natural_Language_Processing/blob/master/Exercise_Sentimental-Analysis/images/wordcloud.png)
 * Make textdata into vector
 * Sentimental analysis with GradientBoostingClassifier, GaussianNB
+
+## Exercise 3 - Keras
+* Can build NN models using Keras
+	* MLP, RNN (LSTM)
