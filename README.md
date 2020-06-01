@@ -26,6 +26,10 @@ QA model with assistant workspace. By sending a query to system, simple matched 
 2. RNN classification model
 * use LSTM to build sentimental anaylsis model
 
+3. NN classification model
+* Implement NN model from the base
+* Parameter adjusting is contained
+
 ## Exercise 3 - Keras
 * Can build NN models using Keras
 	* MLP, RNN (LSTM)
