@@ -33,3 +33,6 @@ QA model with assistant workspace. By sending a query to system, simple matched 
 ## Exercise 3 - Keras
 * Can build NN models using Keras
 	* MLP, RNN (LSTM)
+
+## Exercise 4 - Attension Basics
+* Reproduce and visualize a process of how attention is applied on single cell
