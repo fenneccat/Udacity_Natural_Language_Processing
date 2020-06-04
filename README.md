@@ -36,3 +36,7 @@ QA model with assistant workspace. By sending a query to system, simple matched 
 
 ## Exercise 4 - Attension Basics
 * Reproduce and visualize a process of how attention is applied on single cell
+
+## Exercise 5 - Deciphering Code with character level RNNs
+* using many-to-many GRU cell to build code deciphering model
+* Basic generation model to translate code to plain text
