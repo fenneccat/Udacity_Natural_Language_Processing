@@ -7,9 +7,13 @@ Part of Speech Tagger using Hidden Markov Model.
 Simple HMM model with add-one Laplace Smoothing is applied
 
 
-## Project 2 - IBM Bookworm
+## Project 1 (Optional) - IBM Bookworm
 By using **IBM Watson's Cloud-based NLP services**, build a simple QA model.
 QA model with assistant workspace. By sending a query to system, simple matched answer can be returned.
+
+## Project 2 - Machine Translator
+Implement various RNN mdoels with `keras` to make machine traslator (Eng->Fr)
+* Understand how to construct RNN model using `keras`
 
 ## Exercise 1 - LDA topic Modeling
 * Understand Latent Dirichlet Allocation
