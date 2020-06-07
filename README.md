@@ -14,6 +14,11 @@ QA model with assistant workspace. By sending a query to system, simple matched 
 ## Project 2 - Machine Translator
 Implement various RNN mdoels with `keras` to make machine traslator (Eng->Fr)
 * Understand how to construct RNN model using `keras`
+* 4 versions are available
+	1. simple RNN (GRU) model which uses word number itself as input
+	2. RNN model with embedding layer
+	3. Bidiretional RNN model
+	4. Encoder-Decoder model
 
 ## Exercise 1 - LDA topic Modeling
 * Understand Latent Dirichlet Allocation
