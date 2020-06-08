@@ -19,6 +19,7 @@ Implement various RNN mdoels with `keras` to make machine traslator (Eng->Fr)
 	2. RNN model with embedding layer
 	3. Bidiretional RNN model
 	4. Encoder-Decoder model
+	5. (final) Encoder-Decoder model with Embedding layer
 
 ## Exercise 1 - LDA topic Modeling
 * Understand Latent Dirichlet Allocation
